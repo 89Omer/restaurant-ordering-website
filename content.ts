@@ -1,1 +1,1 @@
-console.log("imbak")
+console.log("lqgla")
